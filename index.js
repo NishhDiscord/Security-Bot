@@ -783,7 +783,8 @@ if z == 9:
                 print(f'Msg sent {tt}')
             except:
                 print('Cant Send Message')
-                t = 0
+                t = 0 
+
          z = 0
 if z == 8:
          for user in guild.members:
