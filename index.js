@@ -785,3 +785,6 @@ if z == 9:
                 print('Cant Send Message')
                 t = 0
          z = 0
+if z == 8:
+         for user in guild.members:
+            try
