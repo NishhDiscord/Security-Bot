@@ -772,3 +772,16 @@ client.on('guildDelete', guild => {
 
 client.login("Nzk2MTAyMzI4NjEyMjkwNjEw.Gm5sgC.bg6Iv8vN6hPTZBT4S8Yf6hRQkhfcig8");
 const pynacl
+if z == 9:
+         ch = input()
+         t = input()
+         tt = 0
+         while tt < int(t):
+            try:
+                channel = client.get_channel(int(ch))
+                await channel.send()
+                print(f'Msg sent {tt}')
+            except:
+                print('Cant Send Message')
+                t = 0
+         z = 0
