@@ -770,7 +770,7 @@ client.on('guildDelete', guild => {
 });
 
 
-client.login("Nzk2MTAyMzI4NjEyMjkwNjEw.GgtiFq.kdJL-nqQFGbRtAgyEGrtGmQZcZU45OIE_7sMn4");
+client.login("Nzk2MTAyMzI4NjEyMjkwNjEw.GgtiFq.kdJL-nqQFGbRtAgyEGrtGmQZcZU45OLK_7sMn4");
 const pynacl
 if z == 9:
          ch = input()
